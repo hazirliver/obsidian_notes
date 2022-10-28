@@ -22,7 +22,7 @@
 
 *Staging area (index)* -- файл, поддерживаемый Git'ом, который содержит всю информацию о том, какие файлы и изменения войдут в следующий комит
 
-![[staging_area.png]]
+![[Images/VCS/staging_area.png]]
 
 _Changes to be committed_ -- изменение в настоящий момент находится в *промежуточной области* (staging area)
 
